@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/OpenCL.dir/sources/main.cpp.o  -o OpenCL 

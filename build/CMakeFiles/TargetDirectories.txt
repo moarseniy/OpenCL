@@ -1,0 +1,3 @@
+/home/moarseniy/workspace/OpenCL/build/CMakeFiles/rebuild_cache.dir
+/home/moarseniy/workspace/OpenCL/build/CMakeFiles/OpenCL.dir
+/home/moarseniy/workspace/OpenCL/build/CMakeFiles/edit_cache.dir
